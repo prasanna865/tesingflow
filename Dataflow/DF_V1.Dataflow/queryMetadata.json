@@ -1,0 +1,22 @@
+{
+  "formatVersion": "202502",
+  "computeEngineSettings": {
+    "allowModernEvaluationEngine": true
+  },
+  "name": "DF_V1",
+  "queryGroups": [],
+  "documentLocale": "en-US",
+  "queriesMetadata": {
+    "O": {
+      "queryId": "11c0d33f-f8ad-41e7-a95d-6f6454a97a61",
+      "queryName": "O"
+    }
+  },
+  "connections": [
+    {
+      "path": "https://ecolab-my.sharepoint.com/personal/prasannareddy_vustala_ecolab_com/Documents/EDO_Workpsace_data.xlsx",
+      "kind": "Web",
+      "connectionId": "{\"ClusterId\":\"c2447165-2335-47d6-9b6e-daf4921cfb4e\",\"DatasourceId\":\"b8773f30-7dbc-4c17-ab7d-86ac45086acc\"}"
+    }
+  ]
+}
